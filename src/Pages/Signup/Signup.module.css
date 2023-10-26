@@ -1,0 +1,25 @@
+.layout__wrapper {
+  gap: 1rem !important;
+}
+
+.auth_wrap{
+    gap: 2rem !important;
+}
+
+.heading__text{
+    color: rgb(140,140,140);
+    font-weight: 600;
+    font-size: 1.7rem;
+    text-align: center;
+    margin:0 0 2rem 0;
+}
+
+.btn_oauth{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:.6rem 2rem;
+    width:100%;
+    margin:2rem 0;
+    gap: 1rem;
+}
